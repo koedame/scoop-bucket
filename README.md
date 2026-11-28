@@ -46,6 +46,10 @@ To report a problem with a manifest in this repository (a wrong download URL or 
 
 Scoop and Windows are trademarks of their respective owners. This bucket is not affiliated with or endorsed by them.
 
+## Contributing
+
+This repository does not accept outside contributions: pull requests are not reviewed or merged and may be closed without a reply. Bug reports and questions are welcome as [issues](https://github.com/koedame/scoop-bucket/issues), without any promise of an answer. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
 ## License
 
 The MIT License in [LICENSE](LICENSE) applies to the manifest files in this repository.
